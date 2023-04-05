@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#red{
+    margin-top: 280px;
+    margin-left: 100px;
+    background-color: red;
+    border: 1px solid rgb(255, 255, 255);
+   
+
+}
+#blue{
+    margin-top: 10px;
+    margin-left: 1000px;
+    background-color: blue;
+    border: 1 px solid rgb(255, 255, 255);
+}
+#all{
+    margin-top: 10px;
+    margin-left: 500px;
+    background-color: wheat;
+    border: 1px solid rgb(255, 255, 255);
+}
+#black{
+    margin-top: 20px;
+    margin-left: 100px;
+    background-color: black;
+    border: 1px solid rgb(255, 255, 255);
+}
+#violet{
+    margin-top: 10px;
+    margin-left: 1000px;
+    background-color: violet;
+    border: 1px solid rgb(255, 255, 255);
+}

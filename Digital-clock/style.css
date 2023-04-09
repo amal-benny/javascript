@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: 'Comfortaa', cursive;
+    overflow: hidden;
+    background: conic-gradient(from .5turn at 0% 0%, #00c476, 10%, #82b0ff, 90%, #00c476);
+
+}
+.container{
+    width: 95%;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.clock{
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(97, 138, 143, 0.366);
+}
+.clock h1{
+    display: inline-block;
+    margin: 0px 10px;
+    font-weight: bold;
+    font-size: 5rem;
+}
